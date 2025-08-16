@@ -83,7 +83,7 @@ Cursos y certificaciones que he completado:
   <code><img height="20" src="https://img.shields.io/badge/CoderHouse-000000?style=flat&logo=coderhouse&logoColor=yellow" alt="CoderHouse"> QA Funcional Testing</code>
 </p>
 <p>
-  <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_UC.svg/120px-Logo_UC.svg.png" alt="PUC Chile"> Automatización de procesos de base de datos relacionales con SQL</code>
+  <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Escudo_de_la_Pontificia_Universidad_Cat%C3%B3lica_de_Chile.svg/200px-Escudo_de_la_Pontificia_Universidad_Cat%C3%B3lica_de_Chile.svg.png" alt="PUC Chile"> Automatización de procesos de base de datos relacionales con SQL</code>
 </p>
 
 
