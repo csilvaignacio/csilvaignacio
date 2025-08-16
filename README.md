@@ -64,13 +64,10 @@ Analista QA con 2 años de experiencia en pruebas funcionales, especializado rec
 ### **Formación**
 Cursos y certificaciones que he completado:
 
-<p>
-  <code><img height="20" src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="Udemy"></code>
-  <code><img height="20" src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg" alt="Coursera"></code>
-  <code><img height="20" src="https://www.vectorlogo.zone/logos/pluralsight/pluralsight-icon.svg" alt="Pluralsight"></code>
-  <code><img height="20" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Learning"></code>
-  <code><img height="20" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube"></code>
-</p>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/1179029?s=20&v=4" alt="Udemy"></code>
+<code><img height="20" src="https://img.shields.io/badge/Udemy-EC5252?style=flat&logo=Udemy&logoColor=white" alt="Udemy"></code>
+<code><img height="20" src="https://cdn.brandslogos.com/in-square/512/u/udemy-logo-icon.png" alt="Udemy"></code>
+<code><img height="20" src="https://cdn.simpleicons.org/udemy" alt="Udemy"></code>
 
 🎓 ETL Data Testing (The Free Range Tester) – Udemy (2025)
 🎓 Playwrright (The Free Range Tester) – Udemy (2025)
