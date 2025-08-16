@@ -11,9 +11,8 @@
 <a href="mailto:csilvaignacio1@gmail.com">
   <img align="left" alt="Mi Email" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />
 </a>
-<br />
 
-### **Sobre Mi
+<h2>SOBRE MI</h2>
 
 Analista QA con 2 años de experiencia en pruebas funcionales, especializado recientemente en automatización con Selenium, Java y otras herramientas de testing automatizado. Comprometido con la calidad y mejora continua, destaco por la capacidad de aprendizaje rápido, adaptación a entornos ágiles y colaboración en equipo.
 
