@@ -22,17 +22,17 @@ Analista QA con 2 años de experiencia en pruebas funcionales, especializado rec
 
 - <b>Testing manual:</b> pruebas funcionales, exploratorias y de regresión en aplicaciones web.
   
-- Diseño y ejecución de pruebas: creación de casos a partir de requerimientos e historias de usuario.
+- <b>Diseño y ejecución de pruebas:</b> creación de casos a partir de requerimientos e historias de usuario.
 
-- Testing de APIs: pruebas manuales con Postman.
+- <b>Testing de APIs:</b> pruebas manuales con Postman.
   
-- Automatización: pruebas de frontend con Cypress y Selenium.
+- <b>Automatización:</b> pruebas de frontend con Selenium.
   
-- Gestión de defectos: reporte, seguimiento y documentación de bugs con evidencias en JIRA.
+- <b>Gestión de defectos:</b> reporte, seguimiento y documentación de bugs con evidencias en JIRA.
   
-- Base de datos: consultas en Microsoft SQL Server para validación de datos.
+- <b>Base de datos:</b> consultas en Microsoft SQL Server para validación de datos.
   
-- Testing de caja negra: enfoque centrado en el comportamiento del sistema.
+- <b>Testing de caja negra:</b> enfoque centrado en el comportamiento del sistema.
 
 ---
 
