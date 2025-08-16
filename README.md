@@ -65,7 +65,11 @@ Analista QA con 2 años de experiencia en pruebas funcionales, especializado rec
 Cursos y certificaciones que he completado:
 
 <p>
-  <code><img height="20" src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="Udemy">ETL Data Testing (The Free Range Tester) – Udemy (2025)</code>
+  <code><img height="20" src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="Udemy"></code>
+  <code><img height="20" src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg" alt="Coursera"></code>
+  <code><img height="20" src="https://www.vectorlogo.zone/logos/pluralsight/pluralsight-icon.svg" alt="Pluralsight"></code>
+  <code><img height="20" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Learning"></code>
+  <code><img height="20" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube"></code>
 </p>
 
 🎓 ETL Data Testing (The Free Range Tester) – Udemy (2025)
