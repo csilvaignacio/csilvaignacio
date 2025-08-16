@@ -13,12 +13,12 @@
 </a>
 </br>
 
-<h2>SOBRE MI</h2>
+### **Sobre Mi*
 
 Analista QA con 2 años de experiencia en pruebas funcionales, especializado recientemente en automatización con Selenium, Java y otras herramientas de testing automatizado. Comprometido con la calidad y mejora continua, destaco por la capacidad de aprendizaje rápido, adaptación a entornos ágiles y colaboración en equipo.
 
 ---
-<h2>HABILIDADES</h2>
+### **Habilidades**
 
 - Testing manual: pruebas funcionales, exploratorias y de regresión en aplicaciones web.
   
