@@ -13,19 +13,20 @@
 </a>
 <br />
 
-### **QA Automation Junior** 🚀 de Santiago, Chile.
+### **Sobre Mi
+
+Analista QA con 2 años de experiencia en pruebas funcionales, especializado recientemente en automatización con Selenium, Java y otras herramientas de testing automatizado. Comprometido con la calidad y mejora continua, destaco por la capacidad de aprendizaje rápido, adaptación a entornos ágiles y colaboración en equipo.
 
 ---
-###<h2>HABILIDADES</h2>
+h2>HABILIDADES</h2>
 
-
-- 👨🏽‍💻 Actualmente trabajo como **Analista QA en STARKEN Chile**
-- 🌱 Estoy profundizando mis conocimientos en **frameworks de automatización** y **CI/CD**
-- 🎯 Mi objetivo es convertirme en un **QA Automation Senior** especializado en testing E2E
-- 🤔 Mis intereses incluyen automatización de pruebas, testing de APIs y mejora continua de procesos
-- 💼 Constantemente aprendiendo nuevas herramientas valoradas en el mercado chile
-- 📫 Contáctame en [csilvaignacio1@gmail.com](mailto:tu-email@gmail.com)
-- 📝 Ver mi [Curriculum Vitae](https://drive.google.com/file/d/1Pe510bWKrj2q0EWf3KlSD2wIRVmuEQn-/view?usp=drive_link) para más información
+✅ Testing manual: pruebas funcionales, exploratorias y de regresión en aplicaciones web.
+✅ Diseño y ejecución de pruebas: creación de casos a partir de requerimientos e historias de usuario.
+✅ Testing de APIs: pruebas manuales con Postman.
+✅ Automatización: pruebas de frontend con Cypress y Selenium.
+✅ Gestión de defectos: reporte, seguimiento y documentación de bugs con evidencias en JIRA.
+✅ Base de datos: consultas en Microsoft SQL Server para validación de datos.
+✅ Testing de caja negra: enfoque centrado en el comportamiento del sistema.
 
 ---
 
