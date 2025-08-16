@@ -3,12 +3,12 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="qa-automation" /></p>
 
 <a href="https://www.linkedin.com/in/tu-linkedin/">
-  <img align="left" alt="Mi Linkedin" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+  <img align="left" alt="Mi Linkedin" width="22px" src="https://www.linkedin.com/in/csilvaign/" />
 </a>
 <a href="https://github.com/tu-usuario">
-  <img align="left" alt="Mi GitHub" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" />
+  <img align="left" alt="Mi GitHub" width="22px" src="https://github.com/csilvaignacio" />
 </a>
-<a href="mailto:tu-email@gmail.com">
+<a href="mailto:csilvaignacio1@gmail.com">
   <img align="left" alt="Mi Email" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />
 </a>
 
@@ -23,14 +23,14 @@
 
 ### **🙋‍♂️ Sobre Mí**
 
-- 👨🏽‍💻 Actualmente trabajo como **QA Automation Junior**
+- 👨🏽‍💻 Actualmente trabajo como **Analista QA**
 - 🌱 Estoy profundizando mis conocimientos en **frameworks de automatización** y **CI/CD**
 - 🎯 Mi objetivo es convertirme en un **QA Automation Senior** especializado en testing E2E
 - 🤔 Mis intereses incluyen automatización de pruebas, testing de APIs y mejora continua de procesos
 - 💼 Constantemente aprendiendo nuevas herramientas valoradas en el mercado chileno
 - 💬 ¡Pregúntame sobre testing y automatización!
-- 📫 Contáctame en [tu-email@gmail.com](mailto:tu-email@gmail.com)
-- 📝 Ver mi [Curriculum Vitae](https://drive.google.com/tu-link) para más información
+- 📫 Contáctame en [csilvaignacio1@gmail.com](mailto:tu-email@gmail.com)
+- 📝 Ver mi [Curriculum Vitae](https://drive.google.com/file/d/1Pe510bWKrj2q0EWf3KlSD2wIRVmuEQn-/view?usp=drive_link) para más información
 
 ---
 
@@ -71,22 +71,10 @@
 
 ---
 
-### **📊 Mis Estadísticas de GitHub**
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Mis estadísticas de GitHub">
+  ⭐️ From <a href="https://github.com/csilvaignacio">Alvaro</a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=shades-of-purple&hide_border=true" alt="GitHub Streak Stats">
-</p>
-
----
-
-<p align="center">
-  ⭐️ From <a href="https://github.com/tu-usuario">tu-usuario</a>
-</p>
-
-<p align="center">
-  <i>Última actualización: [Fecha actual]</i>
+  <i>Última actualización: [8/15/2025]</i>
 </p>
