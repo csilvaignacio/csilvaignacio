@@ -77,7 +77,7 @@ Cursos y certificaciones que he completado:
   <code><img height="20" src="https://cdn.simpleicons.org/udemy" alt="Udemy"> Máster en Java , 0 a experto, Universidad, GS, DAM, DAW</code>
 </p>
 <p>
-  <code><img height="20" src="https://cdn.simpleicons.org/udemy" alt="Udemy"> Máster en Java , 0 a experto, Universidad, GS, DAM, DAW</code>
+  <code><img height="20" src="https://cdn.simpleicons.org/udemy" alt="Udemy"> Java Fundamentos</code>
 </p>
 <p>
   <code><img height="16" src="https://img.shields.io/badge/CH-000?style=flat&labelColor=000&color=000" alt="CoderHouse"> QA Funcional Testing</code>
