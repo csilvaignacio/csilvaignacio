@@ -16,8 +16,8 @@
 ### **QA Automation Junior** 🚀 de Santiago, Chile.
 
 ---
-<h2>HABILIDADES</h2>
----
+###<h2>HABILIDADES</h2>
+
 
 - 👨🏽‍💻 Actualmente trabajo como **Analista QA en STARKEN Chile**
 - 🌱 Estoy profundizando mis conocimientos en **frameworks de automatización** y **CI/CD**
