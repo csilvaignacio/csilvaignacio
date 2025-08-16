@@ -11,8 +11,6 @@
 <a href="mailto:csilvaignacio1@gmail.com">
   <img align="left" alt="Mi Email" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />
 </a>
-
-
 <br />
 <br />
 
