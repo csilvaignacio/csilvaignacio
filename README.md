@@ -2,7 +2,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="qa-automation" /></p>
 
-<a href="https://www.linkedin.com/in/tu-linkedin/">
+<a href="https://www.linkedin.com/in/tu-linkedin">
   <img align="left" alt="Mi Linkedin" width="22px" src="https://www.linkedin.com/in/csilvaign/" />
 </a>
 <a href="https://github.com/tu-usuario">
