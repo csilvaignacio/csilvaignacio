@@ -20,7 +20,7 @@ Analista QA con 2 años de experiencia en pruebas funcionales, especializado rec
 ---
 ### **Habilidades**
 
-- <b>Testing manual:</b> pruebas funcionales, exploratorias y de regresión en aplicaciones web.
+- <b>Testing manual:</b> pruebas funcionales, exploratorias y de regresión en aplicaciones web y mobile.
   
 - <b>Diseño y ejecución de pruebas:</b> creación de casos a partir de requerimientos e historias de usuario.
 
