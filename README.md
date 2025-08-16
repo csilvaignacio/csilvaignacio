@@ -61,6 +61,20 @@ Analista QA con 2 años de experiencia en pruebas funcionales, especializado rec
 
 ---
 
+<h2>Formación</h2>
+📌 Cursos y certificaciones que he completado:
+
+🎓 ETL Data Testing (The Free Range Tester) – Udemy (2025)
+🎓 Playwrright (The Free Range Tester) – Udemy (2025)
+🎓 Apache Jmeter (Rodrigo V. Nieto) – Udemy (2025)
+🎓 Postman (The Free Range Tester) – Udemy (2024)
+🎓 API Testing (Nadia Cavalleri) – Udemy (2024)
+🎓 Selenium with Java, Cucumber & Frameworks (Pavan Kumar) – Udemy (2024)
+🎓 Cypress: Master en automatización en QA (Rodrigo V. Nieto) – Udemy (2023)
+🗣 Inglés B1-B2 – Liceo Cultural Británico (2023)
+🎓 Carrera de Testing QA – Educación IT (2022)
+🎓 Licenciatura en Audiovisión – Universidad Nacional de Lanús (2019 - En curso)
+
 ### **📚 Tecnologías que estoy aprendiendo**
 
 - 🔧 **Jenkins** para CI/CD
