@@ -2,11 +2,11 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="qa-automation" /></p>
 
-<a href="https://www.linkedin.com/in/tu-linkedin">
-  <img align="left" alt="Mi Linkedin" width="22px" src="https://www.linkedin.com/in/csilvaign/" />
+<a href="https://www.linkedin.com/in/csilvaign/">
+  <img align="left" alt="Mi Linkedin" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
-<a href="https://github.com/tu-usuario">
-  <img align="left" alt="Mi GitHub" width="22px" src="https://github.com/csilvaignacio" />
+<a href="https://github.com/csilvaignacio">
+  <img align="left" alt="Mi GitHub" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" />
 </a>
 <a href="mailto:csilvaignacio1@gmail.com">
   <img align="left" alt="Mi Email" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />
