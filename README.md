@@ -80,10 +80,10 @@ Cursos y certificaciones que he completado:
   <code><img height="20" src="https://cdn.simpleicons.org/udemy" alt="Udemy"> Máster en Java , 0 a experto, Universidad, GS, DAM, DAW</code>
 </p>
 <p>
-   <code><img height="20" src="https://avatars.githubusercontent.com/u/51788633?s=20&v=4" alt="CoderHouse">QA Funcional Testing</code>
+  <code><img height="20" src="https://img.shields.io/badge/CoderHouse-000000?style=flat&logo=coderhouse&logoColor=yellow" alt="CoderHouse"> QA Funcional Testing</code>
 </p>
 <p>
-   <code><img height="20" src="https://www.uc.cl/site/assets/files/1/logo-uc.svg" alt="UC Chile">Automatización de procesos de base de datos relacionales con SQL </code>
+  <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_UC.svg/120px-Logo_UC.svg.png" alt="PUC Chile"> Automatización de procesos de base de datos relacionales con SQL</code>
 </p>
 
 
