@@ -18,8 +18,6 @@
 <br />
 
  **QA Automation Junior** 🚀 desde Santiago, Chile.
- 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360px"/>
 
 **Sobre Mí!**
 
