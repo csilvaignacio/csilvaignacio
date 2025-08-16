@@ -64,21 +64,28 @@ Analista QA con 2 años de experiencia en pruebas funcionales, especializado rec
 ### **Formación**
 Cursos y certificaciones que he completado:
 
-<code><img height="20" src="https://avatars.githubusercontent.com/u/1179029?s=20&v=4" alt="Udemy"></code>
-<code><img height="20" src="https://img.shields.io/badge/Udemy-EC5252?style=flat&logo=Udemy&logoColor=white" alt="Udemy"></code>
-<code><img height="20" src="https://cdn.brandslogos.com/in-square/512/u/udemy-logo-icon.png" alt="Udemy"></code>
-<code><img height="20" src="https://cdn.simpleicons.org/udemy" alt="Udemy"></code>
+<p>
+  <code><img height="20" src="https://cdn.simpleicons.org/udemy" alt="Udemy"> Selenium Java Test Framework & Best Practices</code>
+</p>
+<p>
+  <code><img height="20" src="https://cdn.simpleicons.org/udemy" alt="Udemy"> Master Class de Selenium 4 con Java</code>
+</p>
+<p>
+  <code><img height="20" src="https://cdn.simpleicons.org/udemy" alt="Udemy"> Control de versiones con Git, Github, BitBucket y SourceTree</code>
+</p>
+<p>
+  <code><img height="20" src="https://cdn.simpleicons.org/udemy" alt="Udemy"> Máster en Java , 0 a experto, Universidad, GS, DAM, DAW</code>
+</p>
+<p>
+  <code><img height="20" src="https://cdn.simpleicons.org/udemy" alt="Udemy"> Máster en Java , 0 a experto, Universidad, GS, DAM, DAW</code>
+</p>
+<p>
+   <code><img height="20" src="https://avatars.githubusercontent.com/u/51788633?s=20&v=4" alt="CoderHouse">QA Funcional Testing</code>
+</p>
+<p>
+   <code><img height="20" src="https://www.uc.cl/site/assets/files/1/logo-uc.svg" alt="UC Chile">Automatización de procesos de base de datos relacionales con SQL </code>
+</p>
 
-🎓 ETL Data Testing (The Free Range Tester) – Udemy (2025)
-🎓 Playwrright (The Free Range Tester) – Udemy (2025)
-🎓 Apache Jmeter (Rodrigo V. Nieto) – Udemy (2025)
-🎓 Postman (The Free Range Tester) – Udemy (2024)
-🎓 API Testing (Nadia Cavalleri) – Udemy (2024)
-🎓 Selenium with Java, Cucumber & Frameworks (Pavan Kumar) – Udemy (2024)
-🎓 Cypress: Master en automatización en QA (Rodrigo V. Nieto) – Udemy (2023)
-🗣 Inglés B1-B2 – Liceo Cultural Británico (2023)
-🎓 Carrera de Testing QA – Educación IT (2022)
-🎓 Licenciatura en Audiovisión – Universidad Nacional de Lanús (2019 - En curso)
 
 ### **📚 Tecnologías que estoy aprendiendo**
 
