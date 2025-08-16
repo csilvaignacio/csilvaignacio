@@ -13,7 +13,7 @@
 </a>
 </br>
 
-### **Sobre Mi*
+### **Sobre Mi**
 
 Analista QA con 2 años de experiencia en pruebas funcionales, especializado recientemente en automatización con Selenium, Java y otras herramientas de testing automatizado. Comprometido con la calidad y mejora continua, destaco por la capacidad de aprendizaje rápido, adaptación a entornos ágiles y colaboración en equipo.
 
@@ -36,7 +36,7 @@ Analista QA con 2 años de experiencia en pruebas funcionales, especializado rec
 
 ---
 
-### **🛠️ Lenguajes y Herramientas de Testing**
+### **Lenguajes y Herramientas de Testing**
 
 #### **Lenguajes de Programación**
 <p>
@@ -61,8 +61,12 @@ Analista QA con 2 años de experiencia en pruebas funcionales, especializado rec
 
 ---
 
-<h2>Formación</h2>
-📌 Cursos y certificaciones que he completado:
+### **Formación**
+Cursos y certificaciones que he completado:
+
+<p>
+  <code><img height="20" src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="Udemy">ETL Data Testing (The Free Range Tester) – Udemy (2025)</code>
+</p>
 
 🎓 ETL Data Testing (The Free Range Tester) – Udemy (2025)
 🎓 Playwrright (The Free Range Tester) – Udemy (2025)
