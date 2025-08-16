@@ -1,4 +1,4 @@
-<h3 title="hehehe"> Hola 👋, soy Alvaro </h3>
+<h1 title="hehehe"> Hola 👋, soy Alvaro </h1>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="qa-automation" /></p>
 
