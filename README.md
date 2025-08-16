@@ -48,7 +48,7 @@ Analista QA con 2 años de experiencia en pruebas funcionales, especializado rec
 <p>
   <code><img height="20" src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium"></code>
   <code><img height="20" src="https://avatars.githubusercontent.com/u/12528662?s=20&v=4" alt="TestNG"></code>
-  <code><img height="20" src="https://avatars.githubusercontent.com/u/320565?s=20&v=4" alt="JUnit"></code>
+  <code><img height="20" src="https://avatars.githubusercontent.com/u/874086?s=20&v=4" alt="JUnit"></code>
   <code><img height="20" src="https://avatars.githubusercontent.com/u/320565?s=20&v=4" alt="Cucumber"></code>
   <code><img height="20" src="https://rest-assured.io/img/logo-transparent.png" alt="REST Assured"></code>
 </p>
