@@ -1,6 +1,6 @@
 <h1 title="hehehe"> Hola 👋, soy Alvaro </h1>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="qa-automation" /></p>
+
 
 <a href="https://www.linkedin.com/in/csilvaign/">
   <img align="left" alt="Mi Linkedin" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
