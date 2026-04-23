@@ -40,19 +40,19 @@ Aquí detallo las principales tecnologías y herramientas con las que trabajo di
 
 ## 💼 Experiencia Destacada
 
-* [cite_start]**QA Híbrido en VIGATEC (Nov 2025 - Actual):** Automatización de flujos de usuario con Selenium/Java y ejecución de pruebas sobre APIs REST usando Postman[cite: 12, 13, 15, 16, 17]. [cite_start]Integración de pruebas en pipelines CI/CD con Jenkins y Maven[cite: 19].
-* [cite_start]**Analista QA en STARKEN (Oct 2023 - Oct 2025):** Diseño y ejecución de casos de prueba para sistemas logísticos, validación de APIs REST/SOAP, y validación de datos mediante consultas SQL[cite: 20, 21, 22, 23].
-* [cite_start]**Analista QA Trainee en TALO (Mar 2022 - Sept 2023):** Diseño de casos de prueba web, validación con APIs REST y gestión de defectos en Jira[cite: 25, 26, 27].
+* **QA Híbrido en VIGATEC (Nov 2025 - Actual):** Automatización de flujos de usuario con Selenium/Java y ejecución de pruebas sobre APIs REST usando Postman. Integración de pruebas en pipelines CI/CD con Jenkins y Maven.
+* **Analista QA en STARKEN (Oct 2023 - Oct 2025):** Diseño y ejecución de casos de prueba para sistemas logísticos, validación de APIs REST/SOAP, y validación de datos mediante consultas SQL.
+* **Analista QA Trainee en TALO (Mar 2022 - Sept 2023):** Diseño de casos de prueba web, validación con APIs REST y gestión de defectos en Jira.
 
 ## 🎓 Cursos y Certificaciones
 
-* [cite_start]Advanced Selenium WebDriver with Java and TestNG (Udemy) [cite: 36]
-* [cite_start]QA Funcional Testing (Coderhouse) [cite: 38]
-* [cite_start]Automatización de procesos de base de datos relacionales con SQL (PUC) [cite: 39]
+* Advanced Selenium WebDriver with Java and TestNG (Udemy) 
+* QA Funcional Testing (Coderhouse) 
+* Automatización de procesos de base de datos relacionales con SQL (PUC) 
 
 ## 🤝 Conectemos
 
 Si deseas conversar sobre QA, automatización o posibles oportunidades, no dudes en contactarme:
 
-[cite_start][![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/csilvaign) [cite: 6]
-[cite_start][![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csilvaignacio1@gmail.com) [cite: 4]
+[LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/csilvaign)
+[Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csilvaignacio1@gmail.com) 
