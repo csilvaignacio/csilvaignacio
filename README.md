@@ -54,5 +54,5 @@ Aquí detallo las principales tecnologías y herramientas con las que trabajo di
 
 Si deseas conversar sobre QA, automatización o posibles oportunidades, no dudes en contactarme:
 
-[cite_start][![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/csilvaign) 
-[cite_start][![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csilvaignacio1@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/csilvaign) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csilvaignacio1@gmail.com) 
