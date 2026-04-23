@@ -24,7 +24,7 @@ Aquí detallo las principales tecnologías y herramientas con las que trabajo di
 ![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-638520?style=for-the-badge&logo=testng&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF5722?style=for-the-badge)
 
 **API & Servicios:**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
