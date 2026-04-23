@@ -5,13 +5,13 @@
   📍 Santiago, Región Metropolitana
 </p>
 
-## 🚀 Sobre mí
+##  Sobre mí
 
 Soy un Analista de QA con 4 años de experiencia en pruebas de software. Estoy especializado en la ejecución de pruebas funcionales y la automatización para entornos web. 
 
 Actualmente en Vigatec, soy responsable del diseño de estrategias de pruebas funcionales y la automatización de procesos utilizando Java y Selenium. Mi gestión técnica se centra en el desarrollo y mantenimiento de suites de prueba, la mitigación de riesgos en ciclos de despliegue y la integración de la calidad en flujos de CI/CD. 
 
-## 💻 Mi Stack Tecnológico
+##  Mi Stack Tecnológico
 
 Aquí detallo las principales tecnologías y herramientas con las que trabajo diariamente:
 
@@ -38,7 +38,7 @@ Aquí detallo las principales tecnologías y herramientas con las que trabajo di
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 💼 Experiencia Destacada
+##  Experiencia Destacada
 
 * **QA Híbrido en VIGATEC (Nov 2025 - Actual):** Automatización de flujos de usuario con Selenium/Java y ejecución de pruebas sobre APIs REST usando Postman. Integración de pruebas en pipelines CI/CD con Jenkins y Maven.
 * **Analista QA en STARKEN (Oct 2023 - Oct 2025):** Diseño y ejecución de casos de prueba para sistemas logísticos, validación de APIs REST/SOAP, y validación de datos mediante consultas SQL.
