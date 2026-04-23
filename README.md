@@ -2,7 +2,7 @@
 <h3 align="center">Analista QA | Testing Funcional & Automatización</h3>
 
 <p align="center">
-  📍 Santiago, Región Metropolitana
+  📍 Santiago, Chile
 </p>
 
 ##  Sobre mí
