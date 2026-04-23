@@ -1,4 +1,4 @@
-[cite_start]<h1 align="center">Hola, soy Álvaro Carrasco 👋 [cite: 2]</h1>
+[cite_start]<h1 align="center">Hola, soy Álvaro👋 </h1>
 <h3 align="center">Analista QA | [cite_start]Testing Funcional & Automatización [cite: 3]</h3>
 
 <p align="center">
