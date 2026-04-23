@@ -1,8 +1,8 @@
 [cite_start]<h1 align="center">Hola, soy Álvaro👋 </h1>
-<h3 align="center">Analista QA | Testing Funcional & Automatización [cite: 3]</h3>
+<h3 align="center">Analista QA | Testing Funcional & Automatización</h3>
 
 <p align="center">
-  [cite_start]📍 Santiago, Región Metropolitana [cite: 4]
+  📍 Santiago, Región Metropolitana [cite: 4]
 </p>
 
 ## 🚀 Sobre mí
