@@ -44,7 +44,7 @@ Aquí detallo las principales tecnologías y herramientas con las que trabajo di
 * **Analista QA en STARKEN (Oct 2023 - Oct 2025):** Diseño y ejecución de casos de prueba para sistemas logísticos, validación de APIs REST/SOAP, y validación de datos mediante consultas SQL.
 * **Analista QA Trainee en TALO (Mar 2022 - Sept 2023):** Diseño de casos de prueba web, validación con APIs REST y gestión de defectos en Jira.
 
-## 🎓 Cursos y Certificaciones
+##  Cursos y Certificaciones
 
 * Advanced Selenium WebDriver with Java and TestNG (Udemy) 
 * QA Funcional Testing (Coderhouse) 
