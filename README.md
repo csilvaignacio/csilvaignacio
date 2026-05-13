@@ -39,13 +39,13 @@ Aquí detallo las principales tecnologías y herramientas con las que trabajo di
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-##  Experiencia Destacada
+##  Experiencia 
 
 * **QA Híbrido en VIGATEC (Nov 2025 - Actual):** Automatización de flujos de usuario con Selenium/Java y ejecución de pruebas sobre APIs REST usando Postman. Integración de pruebas en pipelines CI/CD con Jenkins y Maven.
 * **Analista QA en STARKEN (Oct 2023 - Oct 2025):** Diseño y ejecución de casos de prueba para sistemas logísticos, validación de APIs REST/SOAP, y validación de datos mediante consultas SQL.
 * **Analista QA Trainee en TALO (Mar 2022 - Sept 2023):** Diseño de casos de prueba web, validación con APIs REST y gestión de defectos en Jira.
 
-##  Cursos y Certificaciones
+##  Cursos 
 
 * Advanced Selenium WebDriver with Java and TestNG (Udemy) 
 * QA Funcional Testing (Coderhouse) 
