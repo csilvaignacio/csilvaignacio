@@ -9,7 +9,7 @@
 
 Soy un Analista de QA con 4 años de experiencia en pruebas de software. Estoy especializado en la ejecución de pruebas funcionales y la automatización para entornos web. 
 
-Actualmente en Vigatec, soy responsable del diseño de estrategias de pruebas funcionales y la automatización de procesos utilizando Java y Selenium. Mi gestión técnica se centra en el desarrollo y mantenimiento de suites de prueba, la mitigación de riesgos en ciclos de despliegue y la integración de la calidad en flujos de CI/CD. 
+Actualmente, soy responsable del diseño de estrategias de pruebas funcionales y la automatización de procesos utilizando Java y Selenium. Mi gestión técnica se centra en el desarrollo y mantenimiento de suites de prueba, la mitigación de riesgos en ciclos de despliegue y la integración de la calidad en flujos de CI/CD. 
 
 ##  Mi Stack Tecnológico
 
