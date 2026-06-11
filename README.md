@@ -48,10 +48,10 @@ Aquí detallo las principales tecnologías y herramientas con las que trabajo di
 
 ## Cursos 
 
-• Playwright Web Automation Testing (Udemy)
-• Selenium Java Test Framework & Best Practices (Udemy)
-• QA Funcional Testing (Coderhouse)
-• Automatización de procesos de base de datosrelacionales con SQL (PUC)
+* Playwright Web Automation Testing (Udemy)
+* Selenium Java Test Framework & Best Practices (Udemy)
+* QA Funcional Testing (Coderhouse)
+* Automatización de procesos de base de datosrelacionales con SQL (PUC)
 
 ## 🤝 Conectemos
 
