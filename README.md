@@ -42,15 +42,16 @@ Aquí detallo las principales tecnologías y herramientas con las que trabajo di
 
 ## Experiencia 
 
-* **QA Híbrido en VIGATEC (Nov 2025 - Actual):** Automatización de flujos de usuario con Selenium/Java y ejecución de pruebas sobre APIs REST usando Postman. Integración de pruebas en pipelines CI/CD con Jenkins y Maven.
+* **QA Híbrido en VIGATEC (Nov 2025 - Actual):** Automatización de flujos de usuario con Playwright/TS y ejecución de pruebas sobre APIs REST usando Postman. Integración de pruebas en pipelines CI/CD Azure.
 * **Analista QA en STARKEN (Oct 2023 - Oct 2025):** Diseño y ejecución de casos de prueba para sistemas logísticos, validación de APIs REST/SOAP, y validación de datos mediante consultas SQL.
 * **Analista QA Trainee en TALO (Mar 2022 - Sept 2023):** Diseño de casos de prueba web, validación con APIs REST y gestión de defectos en Jira.
 
 ## Cursos 
 
-* Advanced Selenium WebDriver with Java and TestNG (Udemy) 
-* QA Funcional Testing (Coderhouse) 
-* Automatización de procesos de base de datos relacionales con SQL (PUC) 
+• Playwright Web Automation Testing (Udemy)
+• Selenium Java Test Framework & Best Practices (Udemy)
+• QA Funcional Testing (Coderhouse)
+• Automatización de procesos de base de datosrelacionales con SQL (PUC)
 
 ## 🤝 Conectemos
 
