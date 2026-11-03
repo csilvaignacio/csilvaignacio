@@ -47,6 +47,7 @@ Aquí detallo las principales tecnologías y herramientas con las que trabajo di
 
 ## Cursos 
 
+* Gen AI for QA: Playwright, Copilot & Claude Code (Udemy)
 * Playwright Web Automation Testing (Udemy)
 * Selenium Java Test Framework & Best Practices (Udemy)
 * QA Funcional Testing (Coderhouse)
